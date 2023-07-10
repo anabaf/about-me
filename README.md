@@ -27,7 +27,7 @@
 </div>
 
 - 💻  Currently completing a coding bootcamp to advance my knowledge and become a full-stack developer.
-- 🎮  Dreaming of making cute RPG-style games, with my own art, that immerse players in fantastical settings.
+- 🎮  Dreaming of making cute RPG-style games, with my own art, that immerses players in fantastical settings.
 - ✈️  On a mission to connect the travel and tech industries, merging my love for exploration with the power of technology.
 - 📖  Passionate about constantly learning, exploring, and embracing the ever-evolving world of code.
 - 🌍  I'm an avid adventurer looking to merge my travels with new tech solutions.
