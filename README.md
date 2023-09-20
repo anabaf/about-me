@@ -22,7 +22,7 @@
 <div style="text-align: left;">
   <h3>:woman_technologist: About Me :</h3>
   <p>
-    My name is Ana, but I usually go by my second name Beatriz, I'm a Portuguese student-turned-tech aficionado ready to conquer the coding world. Previously a master of tourism, I'm pursuing my dream of becoming a full-stack developer by exchanging hotel keys for lines of code.
+    Hey! My name is Ana, and I'm a Portuguese student-turned-tech aficionado ready to conquer the coding world. Previously a master of tourism, my heart has always been in technology so I'm pursuing my dream job as a developer by exchanging hotel keys for lines of code.
   </p>
 </div>
 
