@@ -26,8 +26,7 @@
   </p>
 </div>
 
-- 💻  Recently completed a coding bootcamp to advance my knowledge and become a full-stack developer.
-- 🎮  Dreaming of making cute RPG-style games, with my own art, that immerses players in fantastical settings.
+- 💻  Currently doing a MSc in Software Design at IT University of Copenhagen.
 - 📖  Passionate about constantly learning, exploring, and embracing the ever-evolving world of code.
 - 🌍  I'm an avid adventurer with a mission to explore every corner on earth
 - ✨  Lover of all things technological, exploratory, and pixelated!
